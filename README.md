@@ -4,5 +4,7 @@
 **Author**: Silvia Camagna
 ## Project overview 
 A simplified Life Cycle Assessment (LCA) of a commercial liquid foundation, analysing environmental impact across five life cycle stages and proposing a sustainable redesign. 
+## Files
+[LCA Data Sheet] https://docs.google.com/spreadsheets/d/1-G4SbCtINfqQtRZ_otgO-aBxw9olTLCMPtgsAEDU1Vg/edit?usp=drivesdk
 ## Status
 In progress.
