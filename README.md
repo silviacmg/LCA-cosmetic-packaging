@@ -10,6 +10,6 @@ A simplified Life Cycle Assessment (LCA) of a commercial liquid foundation, anal
 
 [LCA System Boundary Diagram] https://docs.google.com/presentation/d/1-RoOS79bDsn9E8UXXm6CJZyDITCZ1j5aeKHYCe6KI_8/edit?usp=drivesd
 
-[LCA Report] https://docs.google.com/document/d/1-83Af3GbMbHWPmeQtyzznaybXp2fQQSPIflzPB7l6W0/edit?usp=drivesdk
+[LCA Report PDF] chrome://external-file/LCA%20Report%20Este%CC%81e%20Lauder%20Double%20Wear.pdf
 ## Status
-In progress - Report structure created
+Completed - June 2026
